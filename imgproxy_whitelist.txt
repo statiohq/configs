@@ -5,6 +5,7 @@ az.truckers.fm
 banker.dance
 bigrigfm.s3.fr-par.scw.cloud
 cdn.reyfm.de
+cdn.simulatorhits.com
 cover.radioking.io
 e-cdns-images.dzcdn.net
 harmony.sirv.com
