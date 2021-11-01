@@ -4,6 +4,7 @@ assets.laut.fm
 az.truckers.fm
 banker.dance
 bigrigfm.s3.fr-par.scw.cloud
+cdn.radiopanel.co
 cdn.reyfm.de
 cdn.simulatorhits.com
 cover.radioking.io
