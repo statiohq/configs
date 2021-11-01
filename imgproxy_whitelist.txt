@@ -24,6 +24,7 @@ simulatorradio.com
 simulatorvibes.com
 staff.weareharmony.net
 truckersfm-dev.s3.fr-par.scw.cloud
+truckersfm.s3.fr-par.scw.cloud
 truckersradio.nl
 trucksim.fm
 truckstopradio.co.uk
