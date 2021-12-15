@@ -1,0 +1,12 @@
+{
+    "name": "@statio/configs",
+    "version": "1.0.0",
+    "main": "sort.js",
+    "repository": "https://github.com/statiohq/configs",
+    "author": "OfficialCRUGG <ich@crugg.de>",
+    "license": "The Unlicense",
+    "private": false,
+    "scripts": {
+        "sort": "node sort.js"
+    }
+}
